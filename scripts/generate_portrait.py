@@ -91,13 +91,15 @@ def rows_to_svg(rows: list[str]) -> str:
                begin="{begin}s" dur="{TYPE_DURATION}s" fill="freeze" />
     </rect>
   </clipPath>
-  <text x="0" y="{y:.2f}" clip-path="url(#{clip_id})"
+  <text class="a" x="0" y="{y:.2f}" clip-path="url(#{clip_id})"
         font-family="monospace" font-size="{FONT_SIZE}"
         xml:space="preserve">{escaped}</text>""")
 
+    # GitHub renders SVGs as standalone <img> - currentColor resolves to black
+    # with no page context, so light/dark must be hardcoded via media query.
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width:.2f} {height:.2f}"
      width="{width:.2f}" height="{height:.2f}">
-  <style>text {{ fill: currentColor; }}</style>
+  <style>.a{{fill:#6e7681}}@media(prefers-color-scheme:dark){{.a{{fill:#c9d1d9}}}}</style>
 {''.join(row_elems)}
 </svg>"""
 
