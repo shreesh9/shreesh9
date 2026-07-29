@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 696.60 690.80"
      width="696.60" height="690.80">
-  <style>.a{fill:#6e7681}@media(prefers-color-scheme:dark){.a{fill:#c9d1d9}}</style>
+  <style>@font-face{font-family:JBMono;font-style:normal;font-weight:400;font-display:block;src:url(data:font/woff2;base64,d09GMgABAAAAAAT4AA4AAAAACXwAAASmAAJN0wAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmAAgQwRCAqIGIZQATYCJAM8CyAABCAFhCYHIBufByg+DNhkyEL73hCPSpDQcO3wJH4sGfunsjwyWl9JPDwv59e5byT3dCUxGbGVVBkrFc22Pz/Yvb5Avg8p5uFDuKQAJ2rXJGDr2rk2u/3qL2jONDcItMqJsqdHHkQYZ1BLICjLshaHF38jpGzByRmo+P4HQOeYM2ZolZP992Oz8jAPVbRBaEQykRJJYv8jYskk2ZbMs2byQnJNI82u76jTisLcwKzRs+J0BASKA0JIQggUVV27rK6D4ygUyg+5XECgqIbYsqndlc9wkXFoZMHV+dOQrN0KkLakIQD6aCfHKJBGR4BEEYNmOLN3ZwCPqi2T70/eR5pILHKI1DB9R235SMiH8nKE9lG5lgCVVcpRWG00DDxCWgbdnDwyOfFr4RI83f3pn5B77pWXLmhRGHSUVatSQBGFrjA5cioFCDX/Xx5EV4A4gsJfbsshOWmJAtJGsVk6FFtUz81fPEclE0OEGuOzxm59K5H9ols/7aInPnPLR8h80q1fvNjHj0SuWOaVpu1vJDto0N3P4ca0WIruec10j5fIdBv4RuYjI3Q1AD1MBu/L3JtsUR/SOXgQcfDWPHG3a++EnX7Q9pyIKCZzqPI+GoMx9NTtevqGDUTxAzfzruup2ODiLGCVoCwoSi8msMXdYskqMzgoQ455Hax4DLQP3/LW48iXi97R6o93eknQsu1aRPZB0S33yNyfSJEFMP8Q/F33xxpSVr4sIXn4PpVnViyyKaSBYoZtvbXt3o//oBJMVjRhUcK9xz39xF4H6csmzPQetVo32Nu5t5P6dOoeDc2cTZA+qCs0wjs7bmaaJXxphD3UXbi3ghnGu4bdMwR/2jvZZWllcPhCDV07tKPGa3JiAmoFXpEGL+o1eNIgO6zeI832cooKeznlevaYXgIuTeoq7rbeeOrqtziN1TIZYeUtjY0M1qxAV9TgIytCdRGXwd1U/+2qfyncOOcutjMt70LVg/4NXwzu5Kacd3WK6qh7iQ/hFI5Ym7LHikuP2VqHu6fh/6inD3t460ZdGLB7+sL0+R+Jsn07O/YeLuspc3b3hM7io53v3Uzs9KFmvY6eDlp74+95T6HOcNIYsbPQ1d9ObRkdbV+8nKr/KrZysH+tccCmXXtWzVu7dl6pScw8OoITQ+TowHQ3x7EtuzuGmqbNnkwQ9YbTtvgYVcDczVP+ESYe5QtvN3Rel97qnbkNFFIiDQGQcCStjwU5VbKQ+r3Kt+Zs59EV+v8J+f6DX99S7cmv+ynv9Df/A1BQAsH/4UtDGHquDYQBlfL7wQxgBAw+wgegAw22A7h7KCgXCEBe73GdECgVt8yyScEDnPmaRCHD9En5i+AeuSRUd1mSlPRVkk9b3yX5NY+6kgIGxORwBTWNI7pISFoiLSQgiISQEkMcgdrBh0fbUSP1SnMJictATEiIS0BMS0sI8/EgIXrMIwUlpGUg2IJIpKQMLRGRgBA35nluQh4JMSJHTe2xHb58ztXis3yx6rwolzSpooyYnM7Zi9PafBHBBtOPF0PyJM73cGeIWogc7kQ+Iunn+qJkQjBykm3rAgkhNYBcUUVAwbtTbpzrBnMM+uUmkgIB) format('woff2')}.a{fill:#6e7681}@media(prefers-color-scheme:dark){.a{fill:#c9d1d9}}</style>
 
   <clipPath id="clip0">
     <rect x="0" y="-3.39" height="13.55" width="0">
@@ -9,7 +9,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="10.16" clip-path="url(#clip0)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                                                                                          </text>
   <clipPath id="clip1">
     <rect x="0" y="10.16" height="13.55" width="0">
@@ -18,7 +18,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="23.70" clip-path="url(#clip1)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                                   .`'````..                                              </text>
   <clipPath id="clip2">
     <rect x="0" y="23.70" height="13.55" width="0">
@@ -27,7 +27,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="37.25" clip-path="url(#clip2)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                              .`',;*#**###+;;:,'.                                         </text>
   <clipPath id="clip3">
     <rect x="0" y="37.25" height="13.55" width="0">
@@ -36,7 +36,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="50.79" clip-path="url(#clip3)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                          .`',:;+%@@@@@@@@%####%%#+,.                                     </text>
   <clipPath id="clip4">
     <rect x="0" y="50.79" height="13.55" width="0">
@@ -45,7 +45,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="64.34" clip-path="url(#clip4)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                      ``'",:+#%@@@@@@@@@@@%%##@%%%#%+".                                   </text>
   <clipPath id="clip5">
     <rect x="0" y="64.34" height="13.55" width="0">
@@ -54,7 +54,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="77.88" clip-path="url(#clip5)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                     ".':;*%%@@@@@%@@%%@%%%%%%#%@@%@@%*.                                  </text>
   <clipPath id="clip6">
     <rect x="0" y="77.88" height="13.55" width="0">
@@ -63,7 +63,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="91.43" clip-path="url(#clip6)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                    .,,;*##@%@@@@%%%%%##%####@#%%%%@@@%*,                                 </text>
   <clipPath id="clip7">
     <rect x="0" y="91.43" height="13.55" width="0">
@@ -72,7 +72,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="104.97" clip-path="url(#clip7)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                  .,,+*###%%@@@%%%%%%%#%%%%%%%%@%##%@@@@%'                                </text>
   <clipPath id="clip8">
     <rect x="0" y="104.97" height="13.55" width="0">
@@ -81,7 +81,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="118.52" clip-path="url(#clip8)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                .`:,*#####%@@@@%###%%%%#%@%##+*%##%%@@@@%:                                </text>
   <clipPath id="clip9">
     <rect x="0" y="118.52" height="13.55" width="0">
@@ -90,7 +90,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="132.06" clip-path="url(#clip9)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">               ':":+#@%##%@@@@%#%**%%%#++###@#*%@@%@%%@@#"                                </text>
   <clipPath id="clip10">
     <rect x="0" y="132.06" height="13.55" width="0">
@@ -99,7 +99,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="145.61" clip-path="url(#clip10)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">              `**##%@@%%%%@@@@@#+*##%%%%%%@@@@@@@@@@@@%@@,                                </text>
   <clipPath id="clip11">
     <rect x="0" y="145.61" height="13.55" width="0">
@@ -108,7 +108,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="159.15" clip-path="url(#clip11)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">               :##%%@@@%#%@@%#*++++#%#%%%@@@@@@@@@@@%+*##+                                </text>
   <clipPath id="clip12">
     <rect x="0" y="159.15" height="13.55" width="0">
@@ -117,7 +117,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="172.70" clip-path="url(#clip12)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                 `+%%@@@@@%##+;::+##@@#*#%@%%@@@%@@@##+;++                                </text>
   <clipPath id="clip13">
     <rect x="0" y="172.70" height="13.55" width="0">
@@ -126,7 +126,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="186.24" clip-path="url(#clip13)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                 '*%%@@@@@%%#%;,,,;*@@@%%@@%**++;*@#;*:,:#                                </text>
   <clipPath id="clip14">
     <rect x="0" y="186.24" height="13.55" width="0">
@@ -135,7 +135,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="199.79" clip-path="url(#clip14)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                ":##%%@@@@@@#;;,:;#%@@%%%#%#+,:,,,*%+:'',#.                               </text>
   <clipPath id="clip15">
     <rect x="0" y="199.79" height="13.55" width="0">
@@ -144,7 +144,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="213.33" clip-path="url(#clip15)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                  '+##@@@@@@@%%*+*#%%@@%#%*:'''',:*%*;,;%#.                               </text>
   <clipPath id="clip16">
     <rect x="0" y="213.33" height="13.55" width="0">
@@ -153,7 +153,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="226.88" clip-path="url(#clip16)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                   ";**#@@@@%###%*,;****+;""'"",:+#@%#%@%:                                </text>
   <clipPath id="clip17">
     <rect x="0" y="226.88" height="13.55" width="0">
@@ -162,7 +162,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="240.42" clip-path="url(#clip17)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                     `':+*+:,;#%%+``',;,"'''`',:;+#%@#**`                                 </text>
   <clipPath id="clip18">
     <rect x="0" y="240.42" height="13.55" width="0">
@@ -171,7 +171,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="253.97" clip-path="url(#clip18)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                          .`.`+++:`.```;,"'''",;++#%@%***%%%%###+:`                       </text>
   <clipPath id="clip19">
     <rect x="0" y="253.97" height="13.55" width="0">
@@ -180,7 +180,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="267.51" clip-path="url(#clip19)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                            ..`:;:",+##+'`'""":+*%@@@%***%@@@@@@@@%+'                     </text>
   <clipPath id="clip20">
     <rect x="0" y="267.51" height="13.55" width="0">
@@ -189,7 +189,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="281.06" clip-path="url(#clip20)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                               .,::*#*++;*#*;:+#%%@@@#*+++#@@@@%@@@@%+'                   </text>
   <clipPath id="clip21">
     <rect x="0" y="281.06" height="13.55" width="0">
@@ -198,7 +198,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="294.60" clip-path="url(#clip21)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                                "**##+;::;;:;+*#%@@@#*;;:;;;+#%@@@@@@@%;`                 </text>
   <clipPath id="clip22">
     <rect x="0" y="294.60" height="13.55" width="0">
@@ -207,7 +207,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="308.15" clip-path="url(#clip22)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                             `;%@@@%#*#%#:"":+%@@@@#*;:,,,,,,+%@@@@@@@@@%,                </text>
   <clipPath id="clip23">
     <rect x="0" y="308.15" height="13.55" width="0">
@@ -216,7 +216,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="321.69" clip-path="url(#clip23)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                           `;%@@@@@@@@*;;++#%@@@@%#+;:,"""'"*%%@@@@@@@@@%%"               </text>
   <clipPath id="clip24">
     <rect x="0" y="321.69" height="13.55" width="0">
@@ -225,7 +225,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="335.24" clip-path="url(#clip24)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                         .;%%@@@@@@@@@@%%%%%%%@@%#*;;:,''';%%%%@@@@@@@@@%%#*;,`           </text>
   <clipPath id="clip25">
     <rect x="0" y="335.24" height="13.55" width="0">
@@ -234,7 +234,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="348.78" clip-path="url(#clip25)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                       `:%%@@@@@@@@@@@@@###%%%%##*;,"'',+%%%%@@@@@@@@@%%%%%%###*;,`       </text>
   <clipPath id="clip26">
     <rect x="0" y="348.78" height="13.55" width="0">
@@ -243,7 +243,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="362.33" clip-path="url(#clip26)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                   .";#%%@%%@@@@@@@@@@@@@%#***+;::::+*%%%%%%%%@@@@@@%%%%%##%####%%##;'    </text>
   <clipPath id="clip27">
     <rect x="0" y="362.33" height="13.55" width="0">
@@ -252,7 +252,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="375.87" clip-path="url(#clip27)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                  '#@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@%@%%%%%@@@@@@%%%%%@%%%###%@%#%%%*"  </text>
   <clipPath id="clip28">
     <rect x="0" y="375.87" height="13.55" width="0">
@@ -261,7 +261,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="389.42" clip-path="url(#clip28)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                  "+#%%@@@@@@%@@@@@@%%%%%%%@@@@%@@@@%%@%%%%%@@%%@@@%%%%%%@@@%##@%#%#%%%%+'</text>
   <clipPath id="clip29">
     <rect x="0" y="389.42" height="13.55" width="0">
@@ -270,7 +270,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="402.96" clip-path="url(#clip29)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">                 `+%@@%##%%%@@@@@@@%%%%%%%%%%%%%@@%%%%%%%%@@%%@@@%%%%@@@@@@@%%@@%%%#%%##%#</text>
   <clipPath id="clip30">
     <rect x="0" y="402.96" height="13.55" width="0">
@@ -279,7 +279,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="416.51" clip-path="url(#clip30)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">               .:#%%#%@%%*%%@@@@@@@%%%%%%%%%%%%@%%%%%@%%%@@@@%%##@@@@@@@@@%##%@%%@%#%####%</text>
   <clipPath id="clip31">
     <rect x="0" y="416.51" height="13.55" width="0">
@@ -288,7 +288,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="430.05" clip-path="url(#clip31)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">              "*####%%%#%##%%@@@@@@%%%%%%%%%%@@%%%%%@%%%@@@@%#%@@@@@@@@%%%**#@@%@%%###%%%%</text>
   <clipPath id="clip32">
     <rect x="0" y="430.05" height="13.55" width="0">
@@ -297,7 +297,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="443.60" clip-path="url(#clip32)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">            `+#%%%%#%@%##%*#%@@@@@@%%%%%%%%%@@%%%#%@%%%@@@%%@@@@@@%%%%%##**#%@@@@%%#%%%%##</text>
   <clipPath id="clip33">
     <rect x="0" y="443.60" height="13.55" width="0">
@@ -306,7 +306,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="457.14" clip-path="url(#clip33)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">           ,#%%%%%%#%%%####*%@@@@@@%%%%%%%%%@%%%##%%#%%@%%@@@@@%%%######***#%@@@@%%%%%###%</text>
   <clipPath id="clip34">
     <rect x="0" y="457.14" height="13.55" width="0">
@@ -315,7 +315,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="470.69" clip-path="url(#clip34)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">          "%%%%%%%%#@%%%%###*%@@@@%%%%%%%%%@@%%##%%#%@%%@@@@%%%###***##***##%@@@%%%%%###%%</text>
   <clipPath id="clip35">
     <rect x="0" y="470.69" height="13.55" width="0">
@@ -324,7 +324,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="484.23" clip-path="url(#clip35)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">         `#%%%%%%%%%%%%%%#*%##%@@@%%%%%%%%@@%%%##%##@%@@@@@%#####***###***#%@@@@%%%%#####%</text>
   <clipPath id="clip36">
     <rect x="0" y="484.23" height="13.55" width="0">
@@ -333,7 +333,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="497.78" clip-path="url(#clip36)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">        .*%%%@@%%%##%%%%%###%%@@@@%%%%%%%%@%%%##%##%#@@@@%######***###***##%@@@@@%%####%%%</text>
   <clipPath id="clip37">
     <rect x="0" y="497.78" height="13.55" width="0">
@@ -342,7 +342,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="511.32" clip-path="url(#clip37)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">        +%%%%%@%%%##%%#%%##%%#%@@@%%%%%%%@@%%%#%%#%#@@@@%#######**####***#%%@@@@@%###%@@@@</text>
   <clipPath id="clip38">
     <rect x="0" y="511.32" height="13.55" width="0">
@@ -351,7 +351,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="524.87" clip-path="url(#clip38)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">       "@%%%%%%%%%##%%#%%##%%#%@@@%%%%%%@@@%%%#%%##@@@@%%##%#########***##%@@@@@%%%%%@@@@%</text>
   <clipPath id="clip39">
     <rect x="0" y="524.87" height="13.55" width="0">
@@ -360,7 +360,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="538.41" clip-path="url(#clip39)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">       *@%%%%%%%%%######%##%##@@@@%%%%%@@%%%%%%%%#@@@@@%%%%%%%####%##*###%%@@@@%%#%%@@@%#%</text>
   <clipPath id="clip40">
     <rect x="0" y="538.41" height="13.55" width="0">
@@ -369,7 +369,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="551.96" clip-path="url(#clip40)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">      "%@@@@@@@%#%########%%##@@@@%%%%%%%%%%%%%%#%@@@@%%%%%%%%%%%%%#####%%%@@@@@@%%@@@%%%#</text>
   <clipPath id="clip41">
     <rect x="0" y="551.96" height="13.55" width="0">
@@ -378,7 +378,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="565.50" clip-path="url(#clip41)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">      +%@@@@@@@%##############@@@@@%%%%@@@@%%%%%#@@@@@%%%@%%%%%%%%%####%%%@@@@@@@@@@@%%%%#</text>
   <clipPath id="clip42">
     <rect x="0" y="565.50" height="13.55" width="0">
@@ -387,7 +387,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="579.05" clip-path="url(#clip42)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">     '#%@@@@%%@%##########%##%@@@@@%%@@@@@@%%%%%#@@@@%%%%%%%%%%%%%####%%%@@@@@@@@@@@%%%%#%</text>
   <clipPath id="clip43">
     <rect x="0" y="579.05" height="13.55" width="0">
@@ -396,7 +396,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="592.59" clip-path="url(#clip43)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">     +%%%@@@@@@%#############@@@@@%%@@@@@@%%%%%#%@@%%%%%%%##%%%%%###%%%%@@@@@@@@@@@%%@%%%@</text>
   <clipPath id="clip44">
     <rect x="0" y="592.59" height="13.55" width="0">
@@ -405,7 +405,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="606.14" clip-path="url(#clip44)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">    "#%%%%%@@@@%%%#%#######*@@@@@@%@@@@%%%%%%%%#@@@%%@%%%####%%####%%%%%@@@@@@@@@%%%@%%%@@</text>
   <clipPath id="clip45">
     <rect x="0" y="606.14" height="13.55" width="0">
@@ -414,7 +414,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="619.68" clip-path="url(#clip45)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">    +%%%%%%%%@@%%%%#######**@@@@@@@@@@%%%%%%%@%%@@@%@@%###########%%%%@@@@@@@@@@@@@@%%@@@@</text>
   <clipPath id="clip46">
     <rect x="0" y="619.68" height="13.55" width="0">
@@ -423,7 +423,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="633.23" clip-path="url(#clip46)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">   `%@@@@@@@@@@%%%%#######*#@@@@@@@@%%%%%%%%@@%%@@@@@%###########%%%@@@@@@@@@@@@@@%%@@@@@@</text>
   <clipPath id="clip47">
     <rect x="0" y="633.23" height="13.55" width="0">
@@ -432,7 +432,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="646.77" clip-path="url(#clip47)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">   .*#%%%@@@@@@%%%%%#####*#%@@@@@@@%%%%%%%%%@@#@@@@@%######***##%%@@@@@@@@@@@@@@%%@@@@@@@@</text>
   <clipPath id="clip48">
     <rect x="0" y="646.77" height="13.55" width="0">
@@ -441,7 +441,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="660.32" clip-path="url(#clip48)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">    ,#%%%%%%@@%**#%%%%####*%@@@@@@@@@%%%%%%@@%#@@@@@%######***#%%@@@@@@@@@@@@@@%@@@@@@%%%#</text>
   <clipPath id="clip49">
     <rect x="0" y="660.32" height="13.55" width="0">
@@ -450,7 +450,7 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="673.86" clip-path="url(#clip49)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">    `*%%%%%#%%#*##%%%%####*@@@@@@%%%%@@%%%%@@%#@@@@%%%%#######%@@@@@@@@@@@@@@@@%%%%%######</text>
   <clipPath id="clip50">
     <rect x="0" y="673.86" height="13.55" width="0">
@@ -459,6 +459,6 @@
     </rect>
   </clipPath>
   <text class="a" x="0" y="687.41" clip-path="url(#clip50)"
-        font-family="monospace" font-size="12.9"
+        font-family="JBMono,ui-monospace,SFMono-Regular,Menlo,Consolas,&apos;Liberation Mono&apos;,monospace" font-size="12.9"
         xml:space="preserve">   .,#%%@@@@@@%###########%@@@@@@%%%%%%%%%%@@#%@@@%######*##%@@@@@%@@@@@@@@@@@@@@@@@@@@@%#</text>
 </svg>
