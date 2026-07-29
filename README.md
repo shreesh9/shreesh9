@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Andrii Drok"/>
+<img src="./ascii.svg" width="460" alt="Shreesh Nalawade"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[andriidrok.com](https://andriidrok.com) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/andrii_drok/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/andriidrok/) &nbsp;·&nbsp;
-[email](mailto:clb@mirasvit.com)
+[linktree](https://linktr.ee/shreesh9) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/shxeesh_) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/shreesh9/) &nbsp;·&nbsp;
+[email](mailto:shreeshnalawade9@gmail.com)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
+> CSE(AI&ML) student at Mumbai University, in the SF Bay Area.<br>
 > Small, sharp tools over big vague ideas.
 
 I build fast, test on real users, and kill what doesn't work. Right now that's<br>
